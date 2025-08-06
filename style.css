@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+header { background: #333; color: #fff; padding: 10px; text-align: center; }
+nav a { color: #fff; margin: 0 10px; text-decoration: none; }
+main { padding: 20px; text-align: center; }
+.cta-button { display: inline-block; padding: 10px 20px; background: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+form { text-align: left; display: inline-block; margin-top: 20px; }
+form input, form textarea { width: 100%; margin-bottom: 10px; padding: 8px; }
